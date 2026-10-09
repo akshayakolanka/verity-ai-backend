@@ -1,0 +1,15 @@
+target/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+node_modules/
+dist/
+uploads/
+
+# Local Postman workspace data
+.postman/
+postman/
